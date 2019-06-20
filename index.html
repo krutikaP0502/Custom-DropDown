@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Drop Down</title>
+    <link rel="stylesheet" type="text/css" href="css/custom-dropdown.css" />
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css' />
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+</head>
+<body>
+<h1>Custom Drop Down</h1>
+    <div class="dropdown-container">
+        <div id="dd" class="wrapper-dropdown" tabindex="1">
+            <span>John Doe</span>
+            <ul class="dropdown">
+                <li><a href="#"><i class="icon-user"></i>Profile</a></li>
+                <li><a href="#"><i class="icon-cog"></i>Settings</a></li>
+                <li><a href="#"><i class="icon-remove"></i>Log out</a></li>
+            </ul>
+        </div>
+    </div>
+</body>
+
+<script type="text/javascript" src="js/custom-dropdown.js"></script>
+<script type="text/javascript">
+
+  $(function() {
+
+    //DropDown(el,position, width, headerBgColor, headerTextColor, headerActiveBgColor, headerActiveTextColor, optionsBg, optionsTextColor)
+
+    var dd = new DropDown( $('#dd'), 'absolute', '220px', '#d7dadd', '#000000' , '#3e3e3e', '#ffffff','#a4a4a5', 'ffffff');
+
+  });
+</script>
+
+</html>
