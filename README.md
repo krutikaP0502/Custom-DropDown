@@ -19,7 +19,7 @@ Create a DIV with an id which contains a wrapper, a (hidden) drop-down list and 
 ```
 
 Build the drop down by running the plugin on page load
-
+```
 var dd = new DropDown( 
 		$('#dd'),     		// element
 		'absolute', 		 // element position
@@ -31,3 +31,4 @@ var dd = new DropDown(
 		'#a4a4a5',		// Dropdown options background colour
 		 'ffffff			// Dropdown options text colour
 );
+```
