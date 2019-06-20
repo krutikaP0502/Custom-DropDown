@@ -20,7 +20,8 @@ Create a DIV with an id which contains a wrapper, a (hidden) drop-down list and 
 
 Build the dropdown by running the plugin on page load
 ```
-var dd = new DropDown( 
+ $(function() {
+	var dd = new DropDown( 
 		$('#dd'),     		// element
 		'absolute', 		// element position
 		'220px',     		// element width
@@ -30,5 +31,6 @@ var dd = new DropDown(
  		'#ffffff',		// Dropdown after selection header text colour
 		'#a4a4a5',		// Dropdown options background colour
 		'#ffffff		// Dropdown options text colour
-);
+	);
+  });
 ```
