@@ -18,7 +18,7 @@ Create a DIV with an id which contains a wrapper, a (hidden) drop-down list and 
 </div>
 ```
 
-Build the drop down by running the plugin on page load
+Build the dropdown by running the plugin on page load
 ```
 var dd = new DropDown( 
 		$('#dd'),     		// element
