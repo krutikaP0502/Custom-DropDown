@@ -29,6 +29,6 @@ var dd = new DropDown(
 		'#3e3e3e',		// Dropdown after selection header Background colour
  		'#ffffff',		// Dropdown after selection header text colour
 		'#a4a4a5',		// Dropdown options background colour
-		 'ffffff		// Dropdown options text colour
+		'#ffffff		// Dropdown options text colour
 );
 ```
