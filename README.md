@@ -1,7 +1,7 @@
 # Custom DropDown 
 Custom dropdown with Javascript &amp; jquery
 
-Include the jQuery library and the custom-dropdown.js + custom-dropdown.css files  in your index.html file.
+Include the jQuery library and custom-dropdown.js file along with custom-dropdown.css file in your code.
 
 Create a DIV with an id which contains a wrapper, a (hidden) drop-down list and a “label” which we will wrap into a span. 
 
