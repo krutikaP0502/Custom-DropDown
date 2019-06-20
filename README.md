@@ -1,4 +1,4 @@
-# Custom-DropDown
+# Custom DropDown 
 Custom dropdown with Javascript &amp; jquery
 
 Include the jQuery library and the custom-dropdown.js + custom-dropdown.css files  in your index.html file.
