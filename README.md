@@ -5,6 +5,7 @@ Include the jQuery library and the custom-dropdown.js + custom-dropdown.css 
 
 Create a DIV with an id which contains a wrapper, a (hidden) drop-down list and a “label” which we will wrap into a span. 
 
+```html
 <div class="dropdown-container">
     <div id="dd" class="wrapper-dropdown" tabindex="1">
         <span>John Doe</span>
@@ -15,6 +16,7 @@ Create a DIV with an id which contains a wrapper, a (hidden) drop-down list and 
         </ul>
     </div>
 </div>
+```
 
 Build the drop down by running the plugin on page load
 
