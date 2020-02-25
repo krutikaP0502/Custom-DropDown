@@ -1,0 +1,145 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Dairy Products",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "Milk"
+        },
+        {
+          "id": "2",
+          "name": "Butter"
+        },
+        {
+          "id": "3",
+          "name": "Cheese"
+        },
+        {
+          "id": "4",
+          "name": "Cream"
+        },
+        {
+          "id": "5",
+          "name": "Yogurt"
+        },
+        {
+          "id": "6",
+          "name": "Ghee"
+        }
+
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Fruits",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "Apple"
+        },
+        {
+          "id": "2",
+          "name": "Orange"
+        },
+        {
+          "id": "2",
+          "name": "Grapes"
+        },
+        {
+          "id": "2",
+          "name": "Pappya"
+        },
+        {
+          "id": "2",
+          "name": "Pomogranet"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Vegetables",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "Chillies"
+        },
+        {
+          "id": "2",
+          "name": "Corn"
+        },
+        {
+          "id": "3",
+          "name": "Onion"
+        },
+        {
+          "id": "4",
+          "name": "Cloves"
+        },
+        {
+          "id": "4",
+          "name": "Curry"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Baking & Grains",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "Rice"
+        },
+        {
+          "id": "2",
+          "name": "Pasta"
+        },
+        {
+          "id": "3",
+          "name": "Floor"
+        },
+        {
+          "id": "4",
+          "name": "Bread"
+        },
+        {
+          "id": "5",
+          "name": "Baking Powder"
+        },
+        {
+          "id": "6",
+          "name": "Baking Soda"
+        },
+        {
+          "id": "7",
+          "name": "Bread Crumb"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Meats",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "Chicken"
+        },
+        {
+          "id": "2",
+          "name": "Hot dog"
+        },
+        {
+          "id": "3",
+          "name": "Pork"
+        },
+        {
+          "id": "4",
+          "name": "Beef"
+        }
+      ]
+    }
+
+  
+  ]
+}
