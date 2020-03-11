@@ -6,27 +6,27 @@
       "ingredients": [
         {
           "id": "1",
-          "name": "Milk"
+          "name": "milk"
         },
         {
           "id": "2",
-          "name": "Butter"
+          "name": "butter"
         },
         {
           "id": "3",
-          "name": "Cheese"
+          "name": "cheese"
         },
         {
           "id": "4",
-          "name": "Cream"
+          "name": "cream"
         },
         {
           "id": "5",
-          "name": "Yogurt"
+          "name": "yogurt"
         },
         {
           "id": "6",
-          "name": "Ghee"
+          "name": "ghee"
         }
 
       ]
@@ -37,23 +37,23 @@
       "ingredients": [
         {
           "id": "1",
-          "name": "Apple"
+          "name": "apple"
         },
         {
           "id": "2",
-          "name": "Orange"
+          "name": "orange"
         },
         {
-          "id": "2",
-          "name": "Grapes"
+          "id": "3",
+          "name": "grapes"
         },
         {
-          "id": "2",
-          "name": "Pappya"
+          "id": "4",
+          "name": "pappya"
         },
         {
-          "id": "2",
-          "name": "Pomogranet"
+          "id": "5",
+          "name": "pomogranet"
         }
       ]
     },
@@ -63,23 +63,23 @@
       "ingredients": [
         {
           "id": "1",
-          "name": "Chillies"
+          "name": "chillies"
         },
         {
           "id": "2",
-          "name": "Corn"
+          "name": "corn"
         },
         {
           "id": "3",
-          "name": "Onion"
+          "name": "onion"
         },
         {
           "id": "4",
-          "name": "Cloves"
+          "name": "cloves"
         },
         {
           "id": "4",
-          "name": "Curry"
+          "name": "curry"
         }
       ]
     },
@@ -89,31 +89,31 @@
       "ingredients": [
         {
           "id": "1",
-          "name": "Rice"
+          "name": "rice"
         },
         {
           "id": "2",
-          "name": "Pasta"
+          "name": "pasta"
         },
         {
           "id": "3",
-          "name": "Floor"
+          "name": "floor"
         },
         {
           "id": "4",
-          "name": "Bread"
+          "name": "bread"
         },
         {
           "id": "5",
-          "name": "Baking Powder"
+          "name": "baking powder"
         },
         {
           "id": "6",
-          "name": "Baking Soda"
+          "name": "baking soda"
         },
         {
           "id": "7",
-          "name": "Bread Crumb"
+          "name": "bread crumb"
         }
       ]
     },
@@ -123,19 +123,19 @@
       "ingredients": [
         {
           "id": "1",
-          "name": "Chicken"
+          "name": "chicken"
         },
         {
           "id": "2",
-          "name": "Hot dog"
+          "name": "hot dog"
         },
         {
           "id": "3",
-          "name": "Pork"
+          "name": "pork"
         },
         {
           "id": "4",
-          "name": "Beef"
+          "name": "beef"
         }
       ]
     }

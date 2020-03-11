@@ -1,0 +1,101 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Apple Milkshake",
+      "image": "../../../assets/recipies/apple-shake.jpg",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "apple",
+          "quantity" : "1 apple large or 2 medium apples"
+        },
+        {
+          "id": "2",
+          "name": "milk",
+          "quantity" : "2 cups milk or water"
+        },
+        {
+          "id": "3",
+          "name": "sugar",
+          "quantity" : "2 tbsp sugar"
+        }
+
+      ],
+      "time" : "5 mins",
+      "description" : [
+        {
+          "id": "1",
+          "step" : "Wash, peel and core apples. Chop them and add to blender."
+        },
+        {
+          "id": "2",
+          "step" : "Add half of the milk or water, sugar and nuts. Blend until smooth."
+        },
+        {
+          "id": "3",
+          "step" : "Then add the rest of the milk. Blend until frothy."
+        },
+        {
+          "id": "4",
+          "step" : "Pour apple milkshake to serving glasses."
+        }
+      ]
+     
+    },
+    {
+      "id": "2",
+      "name": "Apple shake",
+      "image": "../../../assets/recipies/apple-milkshake.png",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "apple",
+          "quantity" : "1 large apple"
+        },
+        {
+          "id": "2",
+          "name": "milk",
+          "quantity" : "1 cup chilled milk"
+        },
+        {
+          "id": "3",
+          "name": "sugar",
+          "quantity" : "1 tbsl sugar"
+        },
+        {
+          "id": "4",
+          "name": "Vanilla Essence",
+          "quantity" : "2-3 drops Vanilla Essence"
+        }
+
+      ],
+      "time" : "10 mins",
+      "description" : [
+        {
+          "id": "1",
+          "step" : "For preparation, cut the apple into pieces and keep them aside."
+        },
+        {
+          "id": "2",
+          "step" : "In a mixer/blender, take a cup of chilled milk. If you don't have chilled milk, you can use 1-2 ice cubes but this will make your milkshake thin."
+        },
+        {
+          "id": "3",
+          "step" : "Add the chopped apple, sugar (optional) and vanilla essence (optional) to the milk."
+        },
+        {
+          "id": "4",
+          "step" : "Blend till the thickness is maintained consistently. Optionally you can also add grated apple to this mixture."
+        },
+        {
+          "id": "5",
+          "step" : "Serve chilled."
+        }
+      ]
+     
+    }
+
+  
+  ]
+}
