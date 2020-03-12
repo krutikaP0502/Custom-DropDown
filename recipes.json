@@ -94,6 +94,60 @@
         }
       ]
      
+    },
+    {
+      "id": "3",
+      "name": "Butter Chicken",
+      "image": "../../../assets/recipies/butter-chicken.jpg",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "chicken",
+          "quantity" : "1 ½ pounds about 2-3 boneless, skinless chicken breasts, cut into ¾-inch chunks"
+        },
+        {
+          "id": "2",
+          "name": "onion",
+          "quantity" : "1 medium onion diced"
+        },
+        {
+          "id": "3",
+          "name": "butter",
+          "quantity" : "1 tablespoon butter"
+        },
+        {
+          "id": "4",
+          "name": "oil",
+          "quantity" : "1 tablespoon oil"
+        },
+        {
+          "id": "5",
+          "name": "ginger",
+          "quantity" : "1 teaspoon fresh ginger finely minced or grated (or use paste)"
+        },
+        {
+          "id": "6",
+          "name": "cream",
+          "quantity" : " cup heavy cream"
+        }
+       
+      ],
+      "time" : "30 mins",
+      "description" : [
+        {
+          "id": "1",
+          "step" : "Heat a large skillet or medium saucepan over medium-high heat. Add the oil, butter, and onions and cook onions down until lightly golden, about 3-4 minutes. Add ginger and garlic and let cook for 30 seconds, stirring so it doesn’t burn."
+        },
+        {
+          "id": "2",
+          "step" : "Add the chicken, tomato paste, and spices. Cook for 5-6 minutes or until everything is cooked through."
+        },
+        {
+          "id": "3",
+          "step" : "Add the heavy cream and simmer for 8-10 minutes stirring occasionally. Serve over Basmati rice or with naan."
+        }
+      ]
+     
     }
 
   
